@@ -1,4 +1,4 @@
-* {
+{
   box-sizing: border-box;
 }
 body {
@@ -79,15 +79,15 @@ body{
   position:static;
 }
 #i9wa4{
-  padding:0 10px 0 10px;
+  padding:5px 10px 5px 10px;
   color:#1c00ff;
 }
 #iyxg5{
-  padding:0 10px 0 10px;
+  padding:5px 10px 5px 10px;
   color:#ff0000;
 }
 #i9x3z{
-  padding:0 10px 0 10px;
+  padding:5px 10px 5px 10px;
   color:#1c00ff;
 }
 #i0o2i{
@@ -98,17 +98,16 @@ body{
   padding:0 10px 0 10px;
 }
 #ij3xk{
-  color:black;
   width:184px;
   height:179.79995727539062px;
   padding:0 10px 0 0;
 }
 #ierti{
-  display:block;
   width:740.8000183105469px;
   height:714px;
-  width-left:auto;
-  width-right:auto;
+  padding:0 10px 0 10px;
+  display:block;
+  margin:0 auto 0 auto;
 }
 #iybc4{
   padding:5px 10px 5px 10px;
@@ -121,15 +120,15 @@ body{
 #iybc2{
   padding:5px 10px 5px 10px;
   color:#1c00ff;
-} 
-  #iybc5{
+}
+#Author{
+  padding:10px 10px 10px 35px;
+  text-align:center;
+}
+#iybc5{
   right:0;
   padding:5px 10px 5px 10px;
   color:#1c00ff;
-}
-#ivpi0g{
-  padding:10px 10px 10px 35px;
-  text-align:center;
 }
 @media (max-width: 992px){
   #map\ column{
@@ -137,13 +136,6 @@ body{
     min-height:auto;
   }
 }
-@media fadeEffect{
-  from{
-    opacity:0;
-  }
-  to{
-    opacity:1;
-  }
 @media (max-width: 768px){
   .gjs-row{
     flex-wrap:wrap;
