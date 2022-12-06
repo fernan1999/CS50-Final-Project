@@ -136,6 +136,10 @@ body{
     min-height:auto;
   }
 }
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: var(--bs-nav-pills-link-active-color);
+    background-color: #f8f9fa;
+}
 @media (max-width: 768px){
   .gjs-row{
     flex-wrap:wrap;
