@@ -37,11 +37,9 @@ body{
   flex-basis:17.38%;
 }
 #ili4c{
-  color:black;
   width:190.40000915527344px;
   height:183px;
-  opacity:1;
-  position:relative;
+  position:static;
 }
 #Main\ Header{
   padding:10px 0 0 0;
@@ -106,12 +104,12 @@ body{
   padding:0 10px 0 0;
 }
 #ierti{
-  color:black;
+  display:block;
   width:740.8000183105469px;
   height:714px;
-  padding:0 10px 0 10px;
-  float:none;
-  margin:0 0 0 400px;
+  width-left:auto;
+  width-right:auto;
+
 }
 #iybc4{
   padding:0 10px 0 10px;
