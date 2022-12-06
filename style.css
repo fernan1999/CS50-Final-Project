@@ -137,6 +137,13 @@ body{
     min-height:auto;
   }
 }
+@media fadeEffect{
+  from{
+    opacity:0;
+  }
+  to{
+    opacity:1;
+  }
 @media (max-width: 768px){
   .gjs-row{
     flex-wrap:wrap;
