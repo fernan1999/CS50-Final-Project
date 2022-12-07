@@ -3,6 +3,8 @@ Fernando Soca | Harvard College 2022
 
 # Simple User Guide
   My project is a voter guide for Palm Beach County, primarily based on the Palm Beach County Democratic Party's recommendations for the 2022 midterms. Since I recently moved to Palm Beach County, I looked for similar recommendations as I prepared to cast my vote and found they all had one of two issues. Either they didn't state the candidate's platform and only told you who to vote for, or if they did include it they missed many local candidates as they were more focused on major races. I wanted to get to know the candidates who would represent me rather than just follow a down-ballot guide and I also wanted to understand why I shouldn't vote for others and where we disagreed. 
+  
+  This is primarily designed for web browsers and not meant for mobile. It was easier to perfect the layout of the page in one single form than try to account for different options, based on my skill levels. 
 
   The Home Page features a map of Palm Beach County by zipcode that allows you to right-click to open it in a new tab to zoom into the picture and determine your area. The zipcode must be used in the official Florida website, found here (https://www.flsenate.gov/senators/find) and here (https://www.myfloridahouse.gov/findyourrepresentative) to determine your representatives. The navigation bar takes you to the different pages to see the recommendations and the "Sample Ballot" option allows you to open a new page with the official 2022 sample ballot that allows you to print or download it.
 
