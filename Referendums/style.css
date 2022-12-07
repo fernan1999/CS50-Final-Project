@@ -1,9 +1,5 @@
-* {
-  box-sizing: border-box;
-}
-body {
-  margin: 0;
-}
+/*The corresponding ids are used to correlate which items to edit,  */
+/*The css affects the rf.html */
 *{
   box-sizing:border-box;
 }
@@ -208,6 +204,7 @@ body{
   color:#ff0000;
   text-align:center;
 }
+/*This is needed to overide the bootstrap style for the nav bar */
 .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
     color: var(--bs-nav-pills-link-active-color);
     background-color: #f8f9fa;
