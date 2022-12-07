@@ -177,6 +177,7 @@ body{
   line-height:22px;
   text-align:center;
 }
+/*This is needed to overide the bootstrap style for the nav bar */
 .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
     color: var(--bs-nav-pills-link-active-color);
     background-color: #f8f9fa;
